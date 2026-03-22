@@ -1,7 +1,7 @@
  {
   "name": "DARKZONE-MD",
-  "description": "Javascript WhatsApp bot made by 𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟",
-  "logo": "https://files.catbox.moe/jecbfo.jpg",
+  "description": "Javascript WhatsApp bot made by 𝙼𝙰𝚁𝙲𝙾 𝙼𝙰𝙻𝙸𝙺",
+  "logo": "https://i.ibb.co/6Rs8FVLQ/file-00000000b7607208b3cf2ed83cb20148.png",
   "keywords": ["DARKZONE-MD"],
   "success_url": "/",
   "stack": "container",
@@ -15,7 +15,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "𝐸𝑅𝐹𝒜𝒩"
+      "value": "𝙼𝙰𝚁𝙲𝙾 𝙼𝙰𝙻𝙸𝙺"
     }, 
       
     "PREFIX": {
