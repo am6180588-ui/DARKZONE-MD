@@ -87,19 +87,19 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY DARKZONE-MD ❤️*"
+      "value": "*SEEN YOUR STATUS BY MARCO MALIK-MD ❤️*"
     }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "ERFAN"
+      "value": "𝙼𝙰𝚁𝙲𝙾 𝙼𝙰𝙻𝙸𝙺"
     }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923306137477"
+      "value": "923706328012"
     }, 
 
     "BOT_NAME": {
@@ -135,13 +135,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://i.ibb.co/Sw4pzTWC/IMG-20260124-WA0728.jpg"
+      "value": "https://i.ibb.co/6Rs8FVLQ/file-00000000b7607208b3cf2ed83cb20148.png"
     },
     
     "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*CREATER 𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟*"
+      "value": "*CREATER 𝙼𝙰𝚁𝙲𝙾 𝙼𝙰𝙻𝙸𝙺*"
     },
 
     "DELETE_LINKS": {
