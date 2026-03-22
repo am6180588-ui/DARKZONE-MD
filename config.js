@@ -15,7 +15,7 @@ module.exports = {
     CHATBOT: getConfig("CHATBOT") || "on", // on/off chat bot 
     BOT_NAME: process.env.BOT_NAME || getConfig("BOT_NAME") || "DARKZONE-MD",  // Bot's display name
     MODE: getConfig("MODE") || process.env.MODE || "public",        // Bot mode: public/private/group/inbox
-    REPO: process.env.REPO || "https://github.com/MARCO MALIK-Md/DARKZONE-MD/forkhttps://github.com/MARCO MALIK-Md/DARKZONE-MD",  // Bot's GitHub repo
+    REPO: process.env.REPO || "https://github.com/am6180588-ui/DARKZONE-MD/forkhttps://github.com/am6180588-ui/DARKZONE-MD",  // Bot's GitHub repo
     BAILEYS: process.env.BAILEYS || "@whiskeysockets/baileys",  // Bot's BAILEYS
 
     // ===== OWNER & DEVELOPER SETTINGS =====
